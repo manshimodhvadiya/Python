@@ -142,7 +142,6 @@ def submit():
         "Success",
         "Employee Registration Successfull!!"
     )
-
 submit_button = tk.Button(
     text="Submit",
     font=("Arial",12,"bold"),
